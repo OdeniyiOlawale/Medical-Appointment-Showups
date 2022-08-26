@@ -1,6 +1,6 @@
 # Medical-Appointment-Showups
-## Introduction - Problem Statement
-Introduction
+## Introduction 
+## - Problem Statement
 Hospitals need to understand the pattern with which their patients show up for their treatment on the appointment days. Patients who register for medical appointments sometimes do not make it to the hospital on their appointment days. This project analysis is descriptive in nature, and it's one of the primary requirements for completing my Data Analytics Nano Degree with ALX-T Udacity. I choose to work on this project because there is tendency that a patient's condition worsens as a result of his/her failure to appear on their appointment day. In order to make the most of this project, I am expected to collect the medical data from a source, ask questions about it, explore the data to answer these questions, identify patterns and insights and give recommendations or predictions. 
 ## Project Objectives
 This project was guided by the following research questions:
